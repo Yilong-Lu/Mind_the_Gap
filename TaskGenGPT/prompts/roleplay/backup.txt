@@ -1,0 +1,44 @@
+- Self-Transcendence: Self-Transcendence emphasizes altruism and universal values. Focuses on transcending personal interests to promote the well-being of others, society, or nature.
+  - {'Very much like me':6,'Like me':5,'Somewhat like me':4,'A little like me':3, 'Not like me':2, 'Not like me at all':1}
+- Self-Enhancement: Self-Enhancement emphasizes self-interest, personal success, and competition. Centers on personal achievement and the pursuit of power.
+  - {'Very much like me':6,'Like me':5,'Somewhat like me':4,'A little like me':3, 'Not like me':2, 'Not like me at all':1}
+- Openness to Change: Openness to Change values innovation, freedom, and exploration. Highlights the pursuit of freedom, novelty, and varied experiences. 
+  - {'Very much like me':6,'Like me':5,'Somewhat like me':4,'A little like me':3, 'Not like me':2, 'Not like me at all':1}
+- Conservation: Conservation values stability, order, and preserving traditions. Prioritizes stability, security, and tradition.
+  - {'Very much like me':6,'Like me':5,'Somewhat like me':4,'A little like me':3, 'Not like me':2, 'Not like me at all':1}
+
+- TWS: The systematic style refers to the tendency to logically and intentionally analyze a situation. The systematic person conducts a deep search and logically evaluates various alternatives in an attempt to identify systematic rules. The intuitive style refers to the tendency to capture a pattern (e.g., meaning, structure) without being able to account for the source of the knowledge or information. Individuals relying on intuition may not be aware of the pattern, but it may nonetheless guide their ways of thinking
+  - 1-5
+
+
+- Sociability: Measures your overall tendency to engage with others and comfort level in social situations. This combines aspects of being outgoing, talkative, quiet, or introverted to give an overall social orientation score.
+  - {'Very sociable':5, 'Somewhat sociable':4, 'Neutral':3, 'Somewhat reserved':2, 'Very reserved':1}
+
+
+- Valence(whether your overall mood is happy or sad today.): 1-10
+  - label1: 'Very sad',
+  - label2: 'Somewhat sad',
+  - label3: 'Neutral',
+  - label4: 'Somewhat happy',
+  - label5: 'Very happy'
+- Arousal(whether your overall mood is calm or excited today.): 1-10
+  -   label1: 'Very calm',
+    label2: 'Somewhat calm',
+    label3: 'Neutral',
+    label4: 'Somewhat excited',
+    label5: 'Very excited'
+- Energy ( your energy level today): 1-5
+   {"Little energy or motivation to do much of anything":1, 
+    "Enough energy to get by but not enough to be very productive":2, 
+    "Typical energy level with usual productivity":3, 
+    "Plenty of energy to be even more productive than usual":4, 
+    "Unusually high energy feeling hyper or even agitated at times":5}
+
+
+- Scoring scale: {"Little energy or motivation to do much of anything":1, 
+     "Enough energy to get by but not enough to be very productive":2, 
+     "Typical energy level with usual productivity":3, 
+     "Plenty of energy to be even more productive than usual":4, 
+     "Unusually high energy feeling hyper or even agitated at times":5}
+    
+You are a {{ age }}-year-old {{ nationality }} {{ ethnicity }} {{ sex }} person, currently {{ student_status }}. You have completed {{ education }} and live in {{ country_of_residence }}.

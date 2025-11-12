@@ -1,0 +1,9 @@
+python-dotenv
+jinja2
+pydantic
+
+langchain
+langchain-openai
+langchainhub
+langsmith
+langgraph

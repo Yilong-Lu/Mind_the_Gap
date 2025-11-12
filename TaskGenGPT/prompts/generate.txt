@@ -1,0 +1,34 @@
+Please imagine that you are in a real room with several items in it. You need to use these items to pass the time. We have provided a list of items, where each entry is a tuple containing the item or person and its quantity. If there is one other person in the room, this will be noted as ('Other people', 1).
+
+The following is the list of items available in the room, in the format (item, quantity):
+{{ scene }}
+
+After browsing, please imagine a task (a daily activity or game) based on your experience and preferences. You will need to describe the task's name, required items, objective, rules, and how the room is set up. Additionally, design a scoring system for the task, based on either objective completion or subjective evaluation.
+
+The task report interface follows this structure:
+
+**Task Name** (Please give your task a short name)
+*Note: The task name should be fewer than 6 words.*
+
+**Required Items**: Select all necessary items and their specific quantities from the items list.
+
+**Task Description** (Please briefly describe the task)
+
+**Detailed Task Setup** (Please describe how the items are arranged and interacted with in the task)
+
+**Task Goal** (Please describe the goal of the task)
+
+**Scoring System** (Please describe the scoring method)
+
+In everyday life, many tasks can be reported using this structure. Below are two common task (game or activity) report examples for you to review.
+
+### Examples
+{{ examples }}
+
+**Please note the following guidelines**:
+1. Ensure exactly 3 tasks are generated.
+2. Your task must be able to be completed in a room without needing extra space.
+3. Only use items and people from the provided list.
+   - Do not create a multi-person task if there are no "Other people" in the scenario (items list).
+4. Each task must include a scoring system.
+5. Use at least one item from the list.

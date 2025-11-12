@@ -1,0 +1,38 @@
+Example 1:
+
+Two people take turns jumping rope. Each person jumps for 1 minute, and the winner is the one who jumps the most.
+
+Task Name: 
+Two-person Jump Rope Contest
+
+Task Description:
+Two players take turns jumping rope. Each player jumps for 1 minute, and the goal is to see who can jump more times.
+
+Detailed Task Setup:
+Both participants stand in a designated area. One player jumps while the other counts the jumps. After the first player finishes, the second player takes their turn.
+
+Task Goal:
+The goal is to see who can jump the most times within the time limit.
+
+Scoring System:
+Each successful jump counts as 1 point. The player with the most points wins.
+
+
+Example 2:
+
+A person takes a peaceful walk by the lake, enjoying the scenery and relaxing.
+
+Task Name:
+Walking by the Lake
+
+Task Description:
+The participant takes a walk along the lake to relax and unwind.
+
+Detailed Task Setup:
+The participant walks along the lake, enjoying the scenery and the calm atmosphere. No other objects are involved, just the peaceful environment of the lake.
+
+Task Goal:
+The goal is to relax and clear the mind while enjoying the walk.
+
+Scoring System:
+The participant can rate their relaxation level on a scale of 1-10 after the walk, with 10 being fully relaxed and 1 being not relaxed at all.
