@@ -1,0 +1,1 @@
+In everyday life, many tasks can be reported using the structure from the previous page. Below are two common task (game or activity) report examples for you to review. **While reporting your own task**, **you can also click the "Example" button on the left side** of the screen to see more examples.
