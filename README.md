@@ -10,7 +10,7 @@ We conclude that there is a core gap between the value-driven, embodied nature o
 
 ## About the project
 
-`data` folder contains the generated tasks of GPT, matched-GPT and human response samples.
+`data` folder contains the generated tasks of GPT, matched-GPT and response samples of 8 human participants.
 
 `experiment_materials` contains the materials and scale descriptions for human task generation experiment.
 
